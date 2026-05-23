@@ -8,6 +8,23 @@
 
 ---
 
+
+## 📸 截圖
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/site-home.png" alt="網站主頁" width="100%"/><br/><sub>詩歌庫主頁</sub></td>
+    <td align="center"><img src="docs/screenshots/site-categories.png" alt="分類篩選" width="100%"/><br/><sub>分類篩選</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="docs/screenshots/linebot-conversation.png" alt="LINE Bot 對話" width="60%"/><br/><sub>LINE Bot 自動分類</sub></td>
+  </tr>
+</table>
+
+> 截圖檔案放在 [`docs/screenshots/`](docs/screenshots/)
+
+---
+
 ## 這個專案在做什麼？
 
 ```
