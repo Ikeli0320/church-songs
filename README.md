@@ -1,5 +1,7 @@
 # 南勢角禮拜堂詩歌庫
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/) [![LINE Messaging API](https://img.shields.io/badge/LINE-Messaging%20API-00C300?logo=line&logoColor=white)](https://developers.line.biz/) [![Live Demo](https://img.shields.io/badge/demo-live-success)](https://church-songs.pages.dev)
+
 教會領會詩歌分類網站 + LINE Bot 自動新增歌曲。
 
 **線上網址**：https://church-songs.pages.dev
